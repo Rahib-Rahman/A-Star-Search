@@ -2,6 +2,10 @@
 #define mxn 10000
 #define inf 0x3f3f3f3f
 
+/*
+ * @author Sheikh Md. Rahibur Rahman
+*/
+
 using namespace std;
 
 vector< int > graph[mxn],edgeWeight[mxn];
